@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fragment_titles">
+        <item>White</item>
+        <item>Black</item>
+        <item>Elvis</item>
+    </string-array>
+    <string-array name="fragment_classes">
+        <item>com.vedran.tabbedmenu.WhiteFragment</item>
+        <item>com.vedran.tabbedmenu.BlackFragment</item>
+        <item>com.vedran.tabbedmenu.ElvisFragment</item>
+    </string-array>
+</resources>

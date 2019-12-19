@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tabbed Menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="white_fragment">White Fragment</string>
+    <string name="elvis_king_of_rock">Elvis, king of rock!</string>
+    <string name="black_fragment">Black Fragment</string>
+</resources>
